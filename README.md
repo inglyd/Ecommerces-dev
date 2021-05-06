@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-#### Projeto em desenvolvimento de um e-commerce, tendo como objetivo praticar os conhecimentos adquiridos durante a semana no GAMA XP 37, explorando as habilidades de metodologia ágil, algoritmo e banco de dados. O projeto consiste na criação de soluções para uma equipe de desenvolvimento de software criadora de ferramentas para gestão de Ecommerces, fazendo tarefas que ajudam os gestores a extrair dados de inventários de seus respectivos estoques. Utilizando de metodologia ágil para otimizar o processo. A tabela a seguir representa a primeira sprint, estabalecendo o cronograma de entrega das atividades que serão efetuadas.
+#### Projeto em desenvolvimento de um e-commerce, tendo como objetivo praticar os conhecimentos adquiridos durante a semana no GAMA XP 37, explorando as habilidades de metodologia ágil, algoritmo e banco de dados. O projeto consiste na criação de soluções para uma equipe de desenvolvimento de software criadora de ferramentas para gestão de e-commerce, fazendo tarefas que ajudam os gestores a extrair dados de inventários de seus respectivos estoques. Utilizando de metodologia ágil para otimizar o processo. A tabela a seguir representa a primeira sprint, estabalecendo o cronograma de entrega das atividades que serão efetuadas.
 ---
 ### Cronograma da sprint 1
 |                                                    TAREFA                                                   | ESTIMATIVA | INÍCIO     | TERMINO    | STATUS       |
